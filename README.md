@@ -22,17 +22,17 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 ### 📺 Öne Çıkan Oynatma Listeleri & Videolar
 
 #### 🔴 YouTube Güncel Oynatma Listesi
-<img src="adetFiles/upload/17.PNG" width="415" alt="YouTube Kapak Fotoğrafı"><br>
+<a href="https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu"><img src="1782532553131.png" width="415" alt="YouTube Kapak Fotoğrafı"></a><br>
 [![YouTube Oynatma Listesi](https://img.youtube.com/vi/UUMONQpjQqIsdUkKjsulWjngJA/0.jpg)](https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu)
 
 #### ⚫ Dailymotion Oynatma Listesi
-<img src="1782532439681.png" width="415" alt="Dailymotion Kapak Fotoğrafı"><br>
+<a href="https://www.dailymotion.com/MutinousTube"><img src="1782532439681.png" width="415" alt="Dailymotion Kapak Fotoğrafı"></a><br>
 [![Dailymotion Oynatma Listesi](https://images.dailymotion.com/image/x23zdyy/x240-S8m.jpg)](https://www.dailymotion.com/MutinousTube)
 
 #### 🟢 Rumble Güncel Oynatma Listesi
-<img src="adetFiles/upload/19.PNG" width="415" alt="Rumble Kapak Fotoğrafı"><br>
+<a href="https://rumble.com/user/MutinousTube"><img src="1782532468724.png" width="415" alt="Rumble Kapak Fotoğrafı"></a><br>
 [![Rumble Oynatma Listesi](https://images.rumble.com/s/r/g/8/4/6/8/4/h/84684h.v-small-v1-.jpg)](https://rumble.com/user/MutinousTube)
 
 #### 🔵 Telegram Paylaşımı
-<img src="adetFiles/upload/73.PNG" width="415" alt="Telegram Kapak Fotoğrafı"><br>
+<a href="https://t.me/MutinousTube/111"><img src="1782532497973.png" width="415" alt="Telegram Kapak Fotoğrafı"></a><br>
 [![Telegram Videosu](https://content-api.t.me/api/v4/channel_post?channel=MutinousTube&post=111&preview=1&size=l)](https://t.me/MutinousTube/111)
