@@ -1,108 +1,38 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mutinous Technology</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            text-align: center;
-            background-color: #f0f2f5;
-            margin: 0;
-            padding: 5px 10px;
-        }
-        .header {
-            margin-top: 10px;
-            margin-bottom: 10px;
-        }
-        .profile-img {
-            width: 113px;
-            height: 113px;
-            border-radius: 50%;
-            border: 4px solid #fff;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            object-fit: cover;
-            display: block;
-            margin: 0 auto;
-        }
-        h3 {
-            margin: 5px 0 0 0;
-            color: #333;
-        }
-        .description {
-            font-size: 16px;
-            color: #333;
-            max-width: 400px;
-            margin: 2px auto 10px auto;
-            font-weight: 500;
-        }
-        .btn {
-            display: block;
-            width: 94%; 
-            max-width: 400px;
-            margin: 12px auto;
-            padding: 13px 0;
-            text-decoration: none;
-            color: white;
-            border-radius: 12px;
-            font-weight: bold;
-            font-size: 16px;
-            transition: transform 0.2s;
-        }
-        .btn:hover { transform: scale(1.02); opacity: 0.9; }
-        
-        /* Renkler */
-        .yt { background-color: #FF0000; }
-        .tt { background-color: #000000; }
-        .rumble { background-color: #87C232; }
-        .dm { background-color: #0066DC; }
-        .tg { background-color: #0088cc; }
-        .ig { background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); }
-        .tw { background-color: #1DA1F2; }
-        .ms { background-color: #6364FF; }
-        .wa { background-color: #25D366; }
-        .pt { background-color: #FF424D; }
-        .fb { background-color: #4267B2; }
-        .com { background-color: #555; }
-        .mail { background-color: #D44638; }
+# <img src="https://yt3.googleusercontent.com/x0mGWLt60-GJv2ZvwAcvOmkTftz_zogGGIB01a3mqXIZGpvSxL_k_n1eb4kmZWBLIWa6I0atcA=s160-c-k-c0x00ffffff-no-rj" width="113" height="113" style="border-radius: 50%;" alt="Mutinous Technology Logo"> <br> Mutinous Technology
 
-        /* Video Oynatıcı ve Resim Alanları */
-        .video-container {
-            width: 94%;
-            max-width: 400px;
-            margin: 25px auto;
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            position: relative;
-            padding-bottom: 56.25%; /* 16:9 Oranı */
-            height: 0;
-        }
-        .video-container iframe, .video-container div {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border: 0;
-        }
-        
-        /* Liste Kapak Resimleri Stili */
-        .playlist-banner {
-            width: 94%;
-            max-width: 400px;
-            margin: 25px auto -15px auto;
-            border-radius: 12px;
-            display: block;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        
-        /* Telegram Resmi Yerleşim Alanı */
-        .telegram-container {
-            width: 94%;
-            max-width: 400px;
-            margin: 25px auto;
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 4px 6px rgba(0,
+Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan Ulaşabilirsiniz.
+
+---
+
+### 🌐 Sosyal Medya & Yayın Kanallarım
+
+| | |
+| --- | --- |
+| <a href="https://youtube.com/MutinousTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="205"></a> | <a href="https://www.youtube.com/channel/UCNQpjQqIsdUkKjsulWjngJA/join"><img src="https://img.shields.io/badge/Özel_Katıl_Üyeliği-0066DC?style=for-the-badge&logo=youtube&logoColor=white" width="205"></a> |
+| <a href="https://www.youtube.com/playlist?list=UUMONQpjQqIsdUkKjsulWjngJA"><img src="https://img.shields.io/badge/Katıl_Videoları-6364FF?style=for-the-badge&logo=youtube&logoColor=white" width="205"></a> | <a href="https://www.tiktok.com/@mutinoustube"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="205"></a> |
+| <a href="https://www.rumble.com/user/MutinousTube"><img src="https://img.shields.io/badge/Rumble-87C232?style=for-the-badge&logo=rumble&logoColor=white" width="205"></a> | <a href="https://www.dailymotion.com/MutinousTube"><img src="https://img.shields.io/badge/Dailymotion-0066DC?style=for-the-badge&logo=dailymotion&logoColor=white" width="205"></a> |
+| <a href="https://t.me/MutinousTube"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="205"></a> | <a href="https://www.instagram.com/MutinousTube"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="205"></a> |
+| <a href="https://www.x.com/MutinousTube"><img src="https://img.shields.io/badge/Twitter_(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="205"></a> | <a href="https://mastodon.social/@MutinousTube"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" width="205"></a> |
+| <a href="https://whatsapp.com/channel/0029Vb4JKWmIyPtbv15mol0F"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="205"></a> | <a href="https://www.patreon.com/MutinousTube"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" width="205"></a> |
+| <a href="https://odysee.com/@MutinousTube"><img src="https://img.shields.io/badge/Odysee-0066DC?style=for-the-badge&logo=odysee&logoColor=white" width="205"></a> | <a href="https://www.facebook.com/MutinousTube"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" width="205"></a> |
+| <a href="https://youtube.com/@MutinousTube/community"><img src="https://img.shields.io/badge/Topluluk-555555?style=for-the-badge&logo=youtube&logoColor=white" width="205"></a> | <a href="mailto:MutinousTube@gmail.com"><img src="https://img.shields.io/badge/İletişim-D44638?style=for-the-badge&logo=gmail&logoColor=white" width="205"></a> |
+
+---
+
+### 📺 Öne Çıkan Oynatma Listeleri & Videolar
+
+#### 🔴 YouTube Güncel Oynatma Listesi
+<img src="MutinousTube_Playlists.png" width="415" alt="YouTube Kırmızı Kapak"><br>
+[![YouTube Oynatma Listesi](https://img.youtube.com/vi/UUMONQpjQqIsdUkKjsulWjngJA/0.jpg)](https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu)
+
+#### ⚫ Dailymotion Oynatma Listesi
+<img src="MutinousTube_VIP.png" width="415" alt="Dailymotion Siyah Kapak"><br>
+[![Dailymotion Oynatma Listesi](https://images.dailymotion.com/image/x23zdyy/x240-S8m.jpg)](https://www.dailymotion.com/MutinousTube)
+
+#### 🟢 Rumble Güncel Oynatma Listesi
+<img src="MutinousTube_Rumble.png" width="415" alt="Rumble Yeşil Kapak"><br>
+[![Rumble Oynatma Listesi](https://images.rumble.com/s/r/g/8/4/6/8/4/h/84684h.v-small-v1-.jpg)](https://rumble.com/user/MutinousTube)
+
+#### 🔵 Telegram Paylaşımı
+<img src="MutinousTube_Upload.png" width="415" alt="Telegram Mavi Kapak"><br>
+[![Telegram Videosu](https://content-api.t.me/api/v4/channel_post?channel=MutinousTube&post=111&preview=1&size=l)](https://t.me/MutinousTube/111)
