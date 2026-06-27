@@ -22,17 +22,17 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 ### 📺 Öne Çıkan Oynatma Listeleri & Videolar
 
 #### 🔴 YouTube Güncel Oynatma Listesi
-<img src="MutinousTube_Playlists.png" width="415" alt="YouTube Kırmızı Kapak"><br>
+<img src="adetFiles/upload/17.PNG" width="415" alt="YouTube Kapak Fotoğrafı"><br>
 [![YouTube Oynatma Listesi](https://img.youtube.com/vi/UUMONQpjQqIsdUkKjsulWjngJA/0.jpg)](https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu)
 
 #### ⚫ Dailymotion Oynatma Listesi
-<img src="MutinousTube_VIP.png" width="415" alt="Dailymotion Siyah Kapak"><br>
+<img src="adetFiles/upload/18.PNG" width="415" alt="Dailymotion Kapak Fotoğrafı"><br>
 [![Dailymotion Oynatma Listesi](https://images.dailymotion.com/image/x23zdyy/x240-S8m.jpg)](https://www.dailymotion.com/MutinousTube)
 
 #### 🟢 Rumble Güncel Oynatma Listesi
-<img src="MutinousTube_Rumble.png" width="415" alt="Rumble Yeşil Kapak"><br>
+<img src="adetFiles/upload/19.PNG" width="415" alt="Rumble Kapak Fotoğrafı"><br>
 [![Rumble Oynatma Listesi](https://images.rumble.com/s/r/g/8/4/6/8/4/h/84684h.v-small-v1-.jpg)](https://rumble.com/user/MutinousTube)
 
 #### 🔵 Telegram Paylaşımı
-<img src="MutinousTube_Upload.png" width="415" alt="Telegram Mavi Kapak"><br>
+<img src="adetFiles/upload/73.PNG" width="415" alt="Telegram Kapak Fotoğrafı"><br>
 [![Telegram Videosu](https://content-api.t.me/api/v4/channel_post?channel=MutinousTube&post=111&preview=1&size=l)](https://t.me/MutinousTube/111)
