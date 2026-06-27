@@ -26,7 +26,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 [![YouTube Oynatma Listesi](https://img.youtube.com/vi/UUMONQpjQqIsdUkKjsulWjngJA/0.jpg)](https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu)
 
 #### ⚫ Dailymotion Oynatma Listesi
-<img src="adetFiles/upload/18.PNG" width="415" alt="Dailymotion Kapak Fotoğrafı"><br>
+<img src="1782532439681.png" width="415" alt="Dailymotion Kapak Fotoğrafı"><br>
 [![Dailymotion Oynatma Listesi](https://images.dailymotion.com/image/x23zdyy/x240-S8m.jpg)](https://www.dailymotion.com/MutinousTube)
 
 #### 🟢 Rumble Güncel Oynatma Listesi
