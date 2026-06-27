@@ -19,7 +19,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 ---
 
-### 📺 Öne Çíkan Oynatılabilir Listeler & Videolar
+### 📺 Öne Çıkan Oynatma Listeleri & Videolar
 
 #### 🔴 YouTube Güncel Oynatma Listesi
 [![YouTube Oynatma Listesi](https://img.youtube.com/vi/UUMONQpjQqIsdUkKjsulWjngJA/0.jpg)](https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu)
@@ -29,3 +29,6 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 #### 🔵 Dailymotion Oynatma Listesi
 [![Dailymotion Oynatma Listesi](https://images.dailymotion.com/image/x23zdyy/x240-S8m.jpg)](https://www.dailymotion.com/MutinousTube)
+
+#### 💬 Telegram Paylaşımı
+[![Telegram Videosu](https://content-api.t.me/api/v4/channel_post?channel=MutinousTube&post=111&preview=1&size=l)](https://t.me/MutinousTube/111)
