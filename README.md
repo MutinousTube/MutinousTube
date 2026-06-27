@@ -1,4 +1,3 @@
-
 # <img src="https://yt3.googleusercontent.com/x0mGWLt60-GJv2ZvwAcvOmkTftz_zogGGIB01a3mqXIZGpvSxL_k_n1eb4kmZWBLIWa6I0atcA=s160-c-k-c0x00ffffff-no-rj" width="113" height="113" style="border-radius: 50%;" alt="Mutinous Technology Logo"> <br> Mutinous Technology
 
 Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan Ulaşabilirsiniz.
@@ -20,7 +19,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 ---
 
-### 📺 Öne Çıkan Oynatma Listeleri & Videolar
+### 📺 Öne Çíkan Oynatılabilir Listeler & Videolar
 
 #### 🔴 YouTube Güncel Oynatma Listesi
 [![YouTube Oynatma Listesi](https://img.youtube.com/vi/UUMONQpjQqIsdUkKjsulWjngJA/0.jpg)](https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu)
