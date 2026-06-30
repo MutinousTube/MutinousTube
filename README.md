@@ -8,54 +8,54 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/MutinousTube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/channel/UCNQpjQqIsdUkKjsulWjngJA/join" target="_blank"><img src="https://img.shields.io/badge/Özel_Katıl-0066DC?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/playlist?list=UUMONQpjQqIsdUkKjsulWjngJA" target="_blank"><img src="https://img.shields.io/badge/Katıl_Videoları-6364FF?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.tiktok.com/@mutinoustube" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/MutinousTube" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/channel/UCNQpjQqIsdUkKjsulWjngJA/join" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Özel_Katıl-0066DC?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/playlist?list=UUMONQpjQqIsdUkKjsulWjngJA" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Katıl_Videoları-6364FF?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.tiktok.com/@mutinoustube" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.rumble.com/user/MutinousTube" target="_blank"><img src="https://img.shields.io/badge/Rumble-87C232?style=for-the-badge&logo=rumble&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.dailymotion.com/MutinousTube" target="_blank"><img src="https://img.shields.io/badge/Dailymotion-0066DC?style=for-the-badge&logo=dailymotion&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://t.me/MutinousTube" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.instagram.com/MutinousTube" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.rumble.com/user/MutinousTube" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Rumble-87C232?style=for-the-badge&logo=rumble&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.dailymotion.com/MutinousTube" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dailymotion-0066DC?style=for-the-badge&logo=dailymotion&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://t.me/MutinousTube" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.instagram.com/MutinousTube" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.x.com/MutinousTube" target="_blank"><img src="https://img.shields.io/badge/Twitter_(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://mastodon.social/@MutinousTube" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://whatsapp.com/channel/0029Vb4JKWmIyPtbv15mol0F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.patreon.com/MutinousTube" target="_blank"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.x.com/MutinousTube" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter_(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://mastodon.social/@MutinousTube" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://whatsapp.com/channel/0029Vb4JKWmIyPtbv15mol0F" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.patreon.com/MutinousTube" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://odysee.com/@MutinousTube" target="_blank"><img src="https://img.shields.io/badge/Odysee-E21B57?style=for-the-badge&logo=odysee&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.facebook.com/MutinousTube" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/@MutinousTube/community" target="_blank"><img src="https://img.shields.io/badge/Topluluk-555555?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=mutinoustube@gmail.com" target="_blank"><img src="https://img.shields.io/badge/İletişim-D44638?style=for-the-badge&logo=gmail&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://odysee.com/@MutinousTube" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Odysee-E21B57?style=for-the-badge&logo=odysee&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.facebook.com/MutinousTube" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/@MutinousTube/community" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Topluluk-555555?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=mutinoustube@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/İletişim-D44638?style=for-the-badge&logo=gmail&logoColor=white" width="100%"></a></td>
   </tr>
 </table>
 
 ---
 
-### 📺 Öne Çıkan Oynatma Listeleri & Videosu
+### 📺 Öne Çıkan Oynatma Listeleri & Videolar
 
 <table width="100%" style="border-collapse: separate; border-spacing: 15px;">
   <tr>
     <td width="50%" align="center" valign="top">
       <b>🔴 YouTube Güncel Oynatma Listesi</b><br><br>
-      <a href="https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu" target="_blank"><img src="1782532553131.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="YouTube Kapak Fotoğrafı"></a>
+      <a href="https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu" target="_blank" rel="noopener noreferrer"><img src="1782532553131.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="YouTube Kapak Fotoğrafı"></a>
     </td>
     <td width="50%" align="center" valign="top">
       <b>⚫ Dailymotion Oynatma Listesi</b><br><br>
-      <a href="https://www.dailymotion.com/MutinousTube" target="_blank"><img src="1782532439681.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="Dailymotion Kapak Fotoğrafı"></a>
+      <a href="https://www.dailymotion.com/MutinousTube" target="_blank" rel="noopener noreferrer"><img src="1782532439681.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="Dailymotion Kapak Fotoğrafı"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <b>🟢 Rumble Güncel Oynatma Listesi</b><br><br>
-      <a href="https://rumble.com/user/MutinousTube" target="_blank"><img src="1782532468724.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="Rumble Kapak Fotoğrafı"></a>
+      <a href="https://rumble.com/user/MutinousTube" target="_blank" rel="noopener noreferrer"><img src="1782532468724.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="Rumble Kapak Fotoğrafı"></a>
     </td>
     <td width="50%" align="center" valign="top">
       <b>🔵 Telegram Paylaşımı</b><br><br>
-      <a href="https://t.me/MutinousTube/111" target="_blank"><img src="1782532497973.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="Telegram Kapak Fotoğrafı"></a>
+      <a href="https://t.me/MutinousTube/111" target="_blank" rel="noopener noreferrer"><img src="1782532497973.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="Telegram Kapak Fotoğrafı"></a>
     </td>
   </tr>
 </table>
@@ -76,9 +76,9 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
           <span style="font-size: 13px; color: #7f8c8d; display:block; margin-bottom:5px;">Sana Özel Davet Kodu:</span>
           <code style="font-size: 22px; color: #27ae60; letter-spacing: 2px;"><b>09DD3D0E</b></code>
         </div>
-        <a href="https://apps.apple.com/tr/app/on-dijital/id1584313693" target="_blank">🍏 App Store Başvurusu</a> 
+        <a href="https://apps.apple.com/tr/app/on-dijital/id1584313693" target="_blank" rel="noopener noreferrer">🍏 App Store Başvurusu</a> 
         <span style="color:#ccc; padding: 0 10px;">|</span>
-        <a href="https://play.google.com/store/search?q=on+mobil&c=apps" target="_blank">🤖 Google Play Başvurusu</a>
+        <a href="https://play.google.com/store/search?q=on+mobil&c=apps" target="_blank" rel="noopener noreferrer">🤖 Google Play Başvurusu</a>
       </div>
       <br>
       <div style="background: #fafafa; padding: 15px; border-radius: 8px; border-left: 4px solid #2ecc71;">
@@ -102,9 +102,9 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
         <li style="margin-bottom: 8px;">📊 <b>Masrafsız Yatırım & Fatura:</b> Borsa ve fatura ödemelerini komisyonsuz yönetin.</li>
       </ul>
       <div align="center" style="background: #fdfaf0; padding: 15px; border-radius: 8px; border: 1px solid #f5ebd6;">
-        <a href="https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_253971101&utm_source=tvs&utm_medium=sirketim" target="_blank">🏢 Şirketim Yazar Kasa POS Başvurusu</a>
+        <a href="https://www.enpara.com/sirketim/basvuru/firma-bilgileriniz?ref=S_TVS_S_253971101&utm_source=tvs&utm_medium=sirketim" target="_blank" rel="noopener noreferrer">🏢 Şirketim Yazar Kasa POS Başvurusu</a>
         <br><br>
-        <a href="https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_253971101&utm_source=tvs&utm_medium=bireysel" target="_blank">👤 Bireysel Kredi Kartı Başvurusu</a>
+        <a href="https://www.enpara.com/bireysel-basvuru/kimlik-bilgileriniz?ref=B_TVS_253971101&utm_source=tvs&utm_medium=bireysel" target="_blank" rel="noopener noreferrer">👤 Bireysel Kredi Kartı Başvurusu</a>
       </div>
     </td>
   </tr>
@@ -114,7 +114,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 #### 🎥 Banka Kampanya Tanıtım Videosu
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=74LMH5Q9cb8" target="_blank"><img src="https://raw.githubusercontent.com/MutinousTube/MutinousTube/dadd832ab60f87c0f1b4a36cc60dcf6562673b28/fd74b32a.webp" alt="Enpara Detaylı Analiz Videosu"></a>
+  <a href="https://www.youtube.com/watch?v=74LMH5Q9cb8" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MutinousTube/MutinousTube/dadd832ab60f87c0f1b4a36cc60dcf6562673b28/fd74b32a.webp" alt="Enpara Detaylı Analiz Videosu"></a>
 </div>
 
 ---
@@ -132,7 +132,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
       <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
         <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">TERCIH47CVR3I6T</code>
       </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=TERCIH47CVR3I6T&cid=perf-ambaff" target="_blank">🔗 Başvuru Yap</a>
+      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=TERCIH47CVR3I6T&cid=perf-ambaff" target="_blank" rel="noopener noreferrer">🔗 Başvuru Yap</a>
     </td>
     <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
       <span style="font-size: 20px;">👑</span><br>
@@ -141,7 +141,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
       <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
         <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">RED3LKRZZE7</code>
       </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/RED?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=RED3LKRZZE7&cid=perf-ambaff" target="_blank">🔗 Başvuru Yap</a>
+      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/RED?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=RED3LKRZZE7&cid=perf-ambaff" target="_blank" rel="noopener noreferrer">🔗 Başvuru Yap</a>
     </td>
     <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
       <span style="font-size: 20px;">🔥</span><br>
@@ -150,7 +150,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
       <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
         <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">FIRSAT6IZQGZC5</code>
       </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/YALIN?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=FIRSAT6IZQGZC5&cid=perf-ambaff" target="_blank">🔗 Başvuru Yap</a>
+      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/YALIN?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=FIRSAT6IZQGZC5&cid=perf-ambaff" target="_blank" rel="noopener noreferrer">🔗 Başvuru Yap</a>
     </td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
       <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
         <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">GENC2A5E7V2V</code>
       </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=GENC2A5E7V2V&cid=perf-ambaff" target="_blank">🔗 Başvuru Yap</a>
+      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=GENC2A5E7V2V&cid=perf-ambaff" target="_blank" rel="noopener noreferrer">🔗 Başvuru Yap</a>
     </td>
     <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
       <span style="font-size: 20px;">❤️</span><br>
@@ -170,7 +170,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
       <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
         <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">ILK5XHX0IPB</code>
       </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=ILK5XHX0IPB&cid=perf-ambaff" target="_blank">🔗 Başvuru Yap</a>
+      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=ILK5XHX0IPB&cid=perf-ambaff" target="_blank" rel="noopener noreferrer">🔗 Başvuru Yap</a>
     </td>
     <td width="33.3%" align="center" style="border: 2px solid #3498db; padding: 20px; border-radius: 12px; background: #f4f9ff; box-shadow: 0 4px 6px rgba(52,152,219,0.1);">
       <span style="font-size: 20px;">🌐</span><br>
@@ -179,7 +179,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
       <div style="background: #ffffff; padding: 6px; border-radius: 6px; border: 1px dashed #3498db; margin-bottom: 12px;">
         <code style="font-size: 14px; font-weight: bold; color: #2980b9;">FIBER41LT4MA2</code>
       </div>
-      <a href="https://www.vodafone.com.tr/evde-internet/home?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=FIBER41LT4MA2&cid=perf-ambaff" target="_blank">🔗 Başvuru Yap</a>
+      <a href="https://www.vodafone.com.tr/evde-internet/home?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=FIBER41LT4MA2&cid=perf-ambaff" target="_blank" rel="noopener noreferrer">🔗 Başvuru Yap</a>
     </td>
   </tr>
 </table>
