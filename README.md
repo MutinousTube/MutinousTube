@@ -122,7 +122,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 #### 🎥 Banka Kampanya Tanıtım Videosu
 <div align="center">
   <a href="https://www.youtube.com/watch?v=74LMH5Q9cb8" target="_blank">
-    <img src="https://img.youtube.com/vi/74LMH5Q9cb8/maxresdefault.jpg" width="100%" style="height: 180px; object-fit: cover; border-radius: 12px; border: 1px solid #e1e8ed; box-shadow: 0 4px 8px rgba(0,0,0,0.08);" alt="Enpara Detaylı Analiz Videosu">
+    <img src="https://raw.githubusercontent.com/MutinousTube/MutinousTube/dadd832ab60f87c0f1b4a36cc60dcf6562673b28/fd74b32a.webp" width="100%" style="height: 180px; object-fit: cover; border-radius: 12px; border: 1px solid #e1e8ed; box-shadow: 0 4px 8px rgba(0,0,0,0.08);" alt="Enpara Detaylı Analiz Videosu">
   </a>
 </div>
 
