@@ -37,29 +37,33 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 ### 📺 Öne Çıkan Oynatma Listeleri & Videolar
 
-<table width="100%">
+<table width="100%" style="border-collapse: separate; border-spacing: 15px;">
   <tr>
     <td width="50%" align="center" valign="top">
       <b>🔴 YouTube Güncel Oynatma Listesi</b><br><br>
-      <a href="https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu"><img src="1782532553131.png" width="100%" alt="YouTube Kapak Fotoğrafı"></a><br>
-      [![YouTube Oynatma Listesi](https://img.youtube.com/vi/UUMONQpjQqIsdUkKjsulWjngJA/0.jpg)](https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu)
+      <a href="https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu">
+        <img src="1782532553131.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="YouTube Kapak Fotoğrafı">
+      </a>
     </td>
     <td width="50%" align="center" valign="top">
       <b>⚫ Dailymotion Oynatma Listesi</b><br><br>
-      <a href="https://www.dailymotion.com/MutinousTube"><img src="1782532439681.png" width="100%" alt="Dailymotion Kapak Fotoğrafı"></a><br>
-      [![Dailymotion Oynatma Listesi](https://images.dailymotion.com/image/x23zdyy/x240-S8m.jpg)](https://www.dailymotion.com/MutinousTube)
+      <a href="https://www.dailymotion.com/MutinousTube">
+        <img src="1782532439681.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="Dailymotion Kapak Fotoğrafı">
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top"><br>
+    <td width="50%" align="center" valign="top">
       <b>🟢 Rumble Güncel Oynatma Listesi</b><br><br>
-      <a href="https://rumble.com/user/MutinousTube"><img src="1782532468724.png" width="100%" alt="Rumble Kapak Fotoğrafı"></a><br>
-      [![Rumble Oynatma Listesi](https://images.rumble.com/s/r/g/8/4/6/8/4/h/84684h.v-small-v1-.jpg)](https://rumble.com/user/MutinousTube)
+      <a href="https://rumble.com/user/MutinousTube">
+        <img src="1782532468724.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="Rumble Kapak Fotoğrafı">
+      </a>
     </td>
-    <td width="50%" align="center" valign="top"><br>
+    <td width="50%" align="center" valign="top">
       <b>🔵 Telegram Paylaşımı</b><br><br>
-      <a href="https://t.me/MutinousTube/111"><img src="1782532497973.png" width="100%" alt="Telegram Kapak Fotoğrafı"></a><br>
-      [![Telegram Videosu](https://content-api.t.me/api/v4/channel_post?channel=MutinousTube&post=111&preview=1&size=l)](https://t.me/MutinousTube/111)
+      <a href="https://t.me/MutinousTube/111">
+        <img src="1782532497973.png" width="100%" style="height: 220px; object-fit: cover; border-radius: 8px;" alt="Telegram Kapak Fotoğrafı">
+      </a>
     </td>
   </tr>
 </table>
@@ -117,8 +121,8 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 #### 🎥 Banka Kampanya Tanıtım Videosu
 <div align="center">
-  <a href="https://www.youtube.com/embed/74LMH5Q9cb8" target="_blank">
-    <img src="https://img.youtube.com/vi/74LMH5Q9cb8/maxresdefault.jpg" width="100%" height="260" style="object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" alt="Enpara Detaylı Analiz Videosu">
+  <a href="https://www.youtube.com/watch?v=74LMH5Q9cb8" target="_blank">
+    <img src="https://img.youtube.com/vi/74LMH5Q9cb8/maxresdefault.jpg" width="100%" style="height: 180px; object-fit: cover; border-radius: 12px; border: 1px solid #e1e8ed; box-shadow: 0 4px 8px rgba(0,0,0,0.08);" alt="Enpara Detaylı Analiz Videosu">
   </a>
 </div>
 
