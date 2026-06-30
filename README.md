@@ -8,34 +8,28 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://youtube.com/MutinousTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/channel/UCNQpjQqIsdUkKjsulWjngJA/join"><img src="https://img.shields.io/badge/Özel_Katıl-0066DC?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/playlist?list=UUMONQpjQqIsdUkKjsulWjngJA"><img src="https://img.shields.io/badge/Katıl_Videoları-6364FF?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/MutinousTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/channel/UCNQpjQqIsdUkKjsulWjngJA/join"><img src="https://img.shields.io/badge/Özel_Katıl-0066DC?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/playlist?list=UUMONQpjQqIsdUkKjsulWjngJA"><img src="https://img.shields.io/badge/Katıl_Videoları-6364FF?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.tiktok.com/@mutinoustube"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://www.tiktok.com/@mutinoustube"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="100%"></a></td>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://www.rumble.com/user/MutinousTube"><img src="https://img.shields.io/badge/Rumble-87C232?style=for-the-badge&logo=rumble&logoColor=white" width="100%"></a></td>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://www.dailymotion.com/MutinousTube"><img src="https://img.shields.io/badge/Dailymotion-0066DC?style=for-the-badge&logo=dailymotion&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.rumble.com/user/MutinousTube"><img src="https://img.shields.io/badge/Rumble-87C232?style=for-the-badge&logo=rumble&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.dailymotion.com/MutinousTube"><img src="https://img.shields.io/badge/Dailymotion-0066DC?style=for-the-badge&logo=dailymotion&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://t.me/MutinousTube"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.instagram.com/MutinousTube"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://t.me/MutinousTube"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="100%"></a></td>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://www.instagram.com/MutinousTube"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100%"></a></td>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://www.x.com/MutinousTube"><img src="https://img.shields.io/badge/Twitter_(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.x.com/MutinousTube"><img src="https://img.shields.io/badge/Twitter_(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://mastodon.social/@MutinousTube"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://whatsapp.com/channel/0029Vb4JKWmIyPtbv15mol0F"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.patreon.com/MutinousTube"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://mastodon.social/@MutinousTube"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" width="100%"></a></td>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://whatsapp.com/channel/0029Vb4JKWmIyPtbv15mol0F"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100%"></a></td>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://www.patreon.com/MutinousTube"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://odysee.com/@MutinousTube"><img src="https://img.shields.io/badge/Odysee-E21B57?style=for-the-badge&logo=odysee&logoColor=white" width="100%"></a></td>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://www.facebook.com/MutinousTube"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" width="100%"></a></td>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://youtube.com/@MutinousTube/community"><img src="https://img.shields.io/badge/Topluluk-555555?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="33.33%" align="center" style="padding: 4px;"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=mutinoustube@gmail.com"><img src="https://img.shields.io/badge/İletişim-D44638?style=for-the-badge&logo=gmail&logoColor=white" width="100%"></a></td>
-    <td width="33.33%" align="center" style="padding: 4px;"></td>
-    <td width="33.33%" align="center" style="padding: 4px;"></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://odysee.com/@MutinousTube"><img src="https://img.shields.io/badge/Odysee-E21B57?style=for-the-badge&logo=odysee&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.facebook.com/MutinousTube"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/@MutinousTube/community"><img src="https://img.shields.io/badge/Topluluk-555555?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=mutinoustube@gmail.com"><img src="https://img.shields.io/badge/İletişim-D44638?style=for-the-badge&logo=gmail&logoColor=white" width="100%"></a></td>
   </tr>
 </table>
 
@@ -43,21 +37,32 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 ### 📺 Öne Çıkan Oynatma Listeleri & Videolar
 
-#### 🔴 YouTube Güncel Oynatma Listesi
-<a href="https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu"><img src="1782532553131.png" width="415" alt="YouTube Kapak Fotoğrafı"></a><br>
-[![YouTube Oynatma Listesi](https://img.youtube.com/vi/UUMONQpjQqIsdUkKjsulWjngJA/0.jpg)](https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu)
-
-#### ⚫ Dailymotion Oynatma Listesi
-<a href="https://www.dailymotion.com/MutinousTube"><img src="1782532439681.png" width="415" alt="Dailymotion Kapak Fotoğrafı"></a><br>
-[![Dailymotion Oynatma Listesi](https://images.dailymotion.com/image/x23zdyy/x240-S8m.jpg)](https://www.dailymotion.com/MutinousTube)
-
-#### 🟢 Rumble Güncel Oynatma Listesi
-<a href="https://rumble.com/user/MutinousTube"><img src="1782532468724.png" width="415" alt="Rumble Kapak Fotoğrafı"></a><br>
-[![Rumble Oynatma Listesi](https://images.rumble.com/s/r/g/8/4/6/8/4/h/84684h.v-small-v1-.jpg)](https://rumble.com/user/MutinousTube)
-
-#### 🔵 Telegram Paylaşımı
-<a href="https://t.me/MutinousTube/111"><img src="1782532497973.png" width="415" alt="Telegram Kapak Fotoğrafı"></a><br>
-[![Telegram Videosu](https://content-api.t.me/api/v4/channel_post?channel=MutinousTube&post=111&preview=1&size=l)](https://t.me/MutinousTube/111)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>🔴 YouTube Güncel Oynatma Listesi</b><br><br>
+      <a href="https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu"><img src="1782532553131.png" width="100%" alt="YouTube Kapak Fotoğrafı"></a><br>
+      [![YouTube Oynatma Listesi](https://img.youtube.com/vi/UUMONQpjQqIsdUkKjsulWjngJA/0.jpg)](https://www.youtube.com/playlist?list=PLs8e_3KWChB_qb5k_r-lYlg31Xyl5AKhu)
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>⚫ Dailymotion Oynatma Listesi</b><br><br>
+      <a href="https://www.dailymotion.com/MutinousTube"><img src="1782532439681.png" width="100%" alt="Dailymotion Kapak Fotoğrafı"></a><br>
+      [![Dailymotion Oynatma Listesi](https://images.dailymotion.com/image/x23zdyy/x240-S8m.jpg)](https://www.dailymotion.com/MutinousTube)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top"><br>
+      <b>🟢 Rumble Güncel Oynatma Listesi</b><br><br>
+      <a href="https://rumble.com/user/MutinousTube"><img src="1782532468724.png" width="100%" alt="Rumble Kapak Fotoğrafı"></a><br>
+      [![Rumble Oynatma Listesi](https://images.rumble.com/s/r/g/8/4/6/8/4/h/84684h.v-small-v1-.jpg)](https://rumble.com/user/MutinousTube)
+    </td>
+    <td width="50%" align="center" valign="top"><br>
+      <b>🔵 Telegram Paylaşımı</b><br><br>
+      <a href="https://t.me/MutinousTube/111"><img src="1782532497973.png" width="100%" alt="Telegram Kapak Fotoğrafı"></a><br>
+      [![Telegram Videosu](https://content-api.t.me/api/v4/channel_post?channel=MutinousTube&post=111&preview=1&size=l)](https://t.me/MutinousTube/111)
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -110,8 +115,12 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 <br>
 
-#### 🎥 Enpara Kampanya Videosu
-[![Enpara Tanıtım](https://img.youtube.com/vi/74LMH5Q9cb8/0.jpg)](https://www.youtube.com/embed/74LMH5Q9cb8)
+#### 🎥 Banka Kampanya Tanıtım Videosu
+<div align="center">
+  <a href="https://www.youtube.com/embed/74LMH5Q9cb8" target="_blank">
+    <img src="https://img.youtube.com/vi/74LMH5Q9cb8/maxresdefault.jpg" width="100%" height="260" style="object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" alt="Enpara Detaylı Analiz Videosu">
+  </a>
+</div>
 
 ---
 
