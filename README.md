@@ -28,14 +28,14 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
   <tr>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://odysee.com/@MutinousTube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Odysee-E21B57?style=for-the-badge&logo=odysee&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://www.facebook.com/MutinousTube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/@MutinousTube/community" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Topluluk-555555?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=mutinoustube@gmail.com" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/İletişim-D44638?style=for-the-badge&logo=gmail&logoColor=white" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.facebook.com/NeedxLove" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Kişisel_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.linkedin.com/in/mutinoustube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://mutinoustube.github.io" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"></td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.facebook.com/NeedxLove" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.linkedin.com/in/mutinoustube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/@MutinousTube/community" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Topluluk-555555?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=mutinoustube@gmail.com" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/İletişim-D44638?style=for-the-badge&logo=gmail&logoColor=white" width="100%"></a></td>
   </tr>
 </table>
 
@@ -116,7 +116,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
   </tr>
 </table>
 
-br>
+<br>
 
 #### 🎥 Banka Kampanya Tanıtım Videosu
 <div align="center">
