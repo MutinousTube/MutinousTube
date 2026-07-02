@@ -1,4 +1,4 @@
-# <img src="https://github.com/MutinousTube/MutinousTube/blob/6e56bbdbe35714626bef18b760cb0cb5b7a8bc3d/WhatsApp%20vvv2026-06-28%20at%2021.17.48.jpeg" width="113" height="113" style="border-radius: 50%;" alt="Mutinous Technology Logo"> <br> Mutinous Technology
+# <img src="WhatsApp vvv2026-06-28 at 21.17.48.jpeg" width="113" height="113" style="border-radius: 50%;" alt="Mutinous Technology Logo"> <br> Mutinous Technology
 
 Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan Ulaşabilirsiniz.
 
