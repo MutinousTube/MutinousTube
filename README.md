@@ -10,7 +10,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
   <tr>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/MutinousTube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/channel/UCNQpjQqIsdUkKjsulWjngJA/join" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Özel_Katıl-0066DC?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/playlist?list=UUMONQpjQqIsdUkKjsulWjngJA" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Katıl_Videoları-6364FF?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/playlist?list=UUMONQpjQqIsdUkKjsulWjngJA" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Katıl_Videoları-4A0E4E?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://www.tiktok.com/@mutinoustube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="100%"></a></td>
   </tr>
   <tr>
@@ -179,13 +179,4 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
       <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=ILK5XHX0IPB&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
     </td>
     <td width="33.3%" align="center" style="border: 2px solid #3498db; padding: 20px; border-radius: 12px; background: #f4f9ff; box-shadow: 0 4px 6px rgba(52,152,219,0.1);">
-      <span style="font-size: 20px;">🌐</span><br>
-      <b style="font-size: 16px; color: #2980b9;">Fiber İnternet</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Evde Işık Hızında İnternet</span><br><br>
-      <div style="background: #ffffff; padding: 6px; border-radius: 6px; border: 1px dashed #3498db; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #2980b9;">FIBER41LT4MA2</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/evde-internet/home?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=FIBER41LT4MA2&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
-    </td>
-  </tr>
-</table>
+      <span style
