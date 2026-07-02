@@ -1,4 +1,4 @@
-# <img src="WhatsApp vvv2026-06-28 at 21.17.48.jpeg" width="113" height="113" style="border-radius: 50%;" alt="Mutinous Technology Logo"> <br> Mutinous Technology
+# <img src="https://yt3.googleusercontent.com/x0mGWLt60-GJv2ZvwAcvOmkTftz_zogGGIB01a3mqXIZGpvSxL_k_n1eb4kmZWBLIWa6I0atcA=s160-c-k-c0x00ffffff-no-rj" width="113" height="113" style="border-radius: 50%;" alt="Mutinous Technology Logo"> <br> Mutinous Technology
 
 Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan Ulaşabilirsiniz.
 
@@ -8,7 +8,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/MutinousTube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://github.com/MutinousTube/MutinousTube/blob/6e56bbdbe35714626bef18b760cb0cb5b7a8bc3d/WhatsApp%20vvv2026-06-28%20at%2021.17.48.jpeg)" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/MutinousTube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/channel/UCNQpjQqIsdUkKjsulWjngJA/join" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Özel_Katıl-0066DC?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/playlist?list=UUMONQpjQqIsdUkKjsulWjngJA" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Katıl_Videoları-6364FF?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://www.tiktok.com/@mutinoustube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="100%"></a></td>
