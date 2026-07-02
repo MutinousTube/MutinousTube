@@ -76,7 +76,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
       <div align="center">
         <span style="background: #2ecc71; color: white; padding: 4px 12px; border-radius: 12px; font-size: 12px; font-weight: bold;">POPÜLER</span>
         <h3 style="color: #27ae60; margin-top: 10px;">🟩 ON Dijital Avantaj Dünyası</h3>
-        <p>Sıra beklemeden, tamamen dijital and masrafsız bankacılıkla hemen tanışın!</p>
+        <p>Sıra beklemeden, tamamen dijital ve masrafsız bankacılıkla hemen tanışın!</p>
         <p>Yüksek kazançlı dünyaya katılmak için aşağıdaki özel davet kodunu kullanın:</p>
         <div style="background: #f4fbf7; border: 2px dashed #2ecc71; padding: 12px; border-radius: 8px; margin: 15px 0;">
           <span style="font-size: 13px; color: #7f8c8d; display:block; margin-bottom:5px;">Sana Özel Davet Kodu:</span>
@@ -125,67 +125,60 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 ---
 
-### 📱 Vodafone Avantaj Günleri
+### 📱 Vodafone Özel Kampanya Fırsatları (30.07.2026)
 
-> Vodafone'un en popüler faturalı hat ve fiber internet paketleri! Size özel indirim kodlarını kopyalayarak hemen başvurabilirsiniz.
+<div style="background: linear-gradient(135deg, #e60000, #b30000); color: white; padding: 30px 20px; border-radius: 20px; text-align: center; margin-bottom: 25px;">
+  <h2 style="margin: 0 0 10px 0; color: white; font-size: 28px;">🎁 Vodafone Avantaj Günleri!</h2>
+  <p style="margin: 0; opacity: 0.95; font-size: 15px;">Vodafone'un uygun fiyatlı faturalı hat ve fiber internet kampanyalarından, size özel hazırladığım indirim kodları ve linklerle hemen faydalanabilirsiniz. Kaçırmayın, değerlendirin!</p>
+</div>
 
-<table width="100%" style="border-collapse: separate; border-spacing: 10px;">
+<table width="100%" style="border-collapse: separate; border-spacing: 15px; background: transparent;">
   <tr>
-    <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <span style="font-size: 20px;">⭐</span><br>
-      <b style="font-size: 16px;">Tercih Kampanyası</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Avantajlı Tarife Dünyası</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">TERCIH47CVR3I6T</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=TERCIH47CVR3I6T&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
+    <!-- Kart 1 -->
+    <td width="50%" valign="top" style="border: 1px solid #eef0f2; border-radius: 15px; padding: 20px; background: #ffffff; box-shadow: 0 5px 15px rgba(0,0,0,0.03);" align="center">
+      <div style="background: #231f20; color: white; padding: 10px; border-radius: 8px; font-weight: bold; margin-bottom: 15px;">⭐ Tercih Kampanyası</div>
+      <p style="color: #231f20; margin-bottom: 10px; font-size: 14px;">Size Özel Avantajlı Tarife</p>
+      <div style="background: #f8f9fa; border: 2px dashed #ccc; padding: 10px; border-radius: 8px; font-weight: bold; color: #e60000; font-size: 18px; letter-spacing: 1px; margin-bottom: 15px;">TERCIH47CVR3I6T</div>
+      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=TERCIH47CVR3I6T&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" style="display: block; padding: 12px; background: #e60000; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(230,0,0,0.1);">Başvuru Yap</a>
     </td>
-    <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <span style="font-size: 20px;">👑</span><br>
-      <b style="font-size: 16px;">Vodafone RED</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Dolu Dolu Premium RED</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">RED3LKRZZE7</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/RED?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=RED3LKRZZE7&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
-    </td>
-    <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <span style="font-size: 20px;">🔥</span><br>
-      <b style="font-size: 16px;">Yalın Fırsat</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">En Uygun Fiyatlı Paketler</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">FIRSAT6IZQGZC5</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/YALIN?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=FIRSAT6IZQGZC5&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
+    <!-- Kart 2 -->
+    <td width="50%" valign="top" style="border: 1px solid #eef0f2; border-radius: 15px; padding: 20px; background: #ffffff; box-shadow: 0 5px 15px rgba(0,0,0,0.03);" align="center">
+      <div style="background: #231f20; color: white; padding: 10px; border-radius: 8px; font-weight: bold; margin-bottom: 15px;">👑 Vodafone RED</div>
+      <p style="color: #231f20; margin-bottom: 10px; font-size: 14px;">Dolu Dolu RED Dünyası Fırsatı</p>
+      <div style="background: #f8f9fa; border: 2px dashed #ccc; padding: 10px; border-radius: 8px; font-weight: bold; color: #e60000; font-size: 18px; letter-spacing: 1px; margin-bottom: 15px;">RED3LKRZZE7</div>
+      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/RED?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=RED3LKRZZE7&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" style="display: block; padding: 12px; background: #e60000; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(230,0,0,0.1);">Başvuru Yap</a>
     </td>
   </tr>
   <tr>
-    <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <span style="font-size: 20px;">⚡</span><br>
-      <b style="font-size: 16px;">FreeZone Kampanyası</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Gençlere Özel Ekstra Hediyeli</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">GENC2A5E7V2V</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=GENC2A5E7V2V&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
+    <!-- Kart 3 -->
+    <td width="50%" valign="top" style="border: 1px solid #eef0f2; border-radius: 15px; padding: 20px; background: #ffffff; box-shadow: 0 5px 15px rgba(0,0,0,0.03);" align="center">
+      <div style="background: #231f20; color: white; padding: 10px; border-radius: 8px; font-weight: bold; margin-bottom: 15px;">🔥 Yalın Fırsat</div>
+      <p style="color: #231f20; margin-bottom: 10px; font-size: 14px;">En Uygun Fiyatlı Yalın Paketler</p>
+      <div style="background: #f8f9fa; border: 2px dashed #ccc; padding: 10px; border-radius: 8px; font-weight: bold; color: #e60000; font-size: 18px; letter-spacing: 1px; margin-bottom: 15px;">FIRSAT6IZQGZC5</div>
+      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/YALIN?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=FIRSAT6IZQGZC5&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" style="display: block; padding: 12px; background: #e60000; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(230,0,0,0.1);">Başvuru Yap</a>
     </td>
-    <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <span style="font-size: 20px;">❤️</span><br>
-      <b style="font-size: 16px;">İlk Fırsat Paketleri</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Yeni Gelenlere Özel İndirim</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">ILK5XHX0IPB</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=ILK5XHX0IPB&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
+    <!-- Kart 4 -->
+    <td width="50%" valign="top" style="border: 1px solid #eef0f2; border-radius: 15px; padding: 20px; background: #ffffff; box-shadow: 0 5px 15px rgba(0,0,0,0.03);" align="center">
+      <div style="background: #231f20; color: white; padding: 10px; border-radius: 8px; font-weight: bold; margin-bottom: 15px;">⚡ FreeZone Kampanyası</div>
+      <p style="color: #231f20; margin-bottom: 10px; font-size: 14px;">Gençlere Özel Ekstra Hediyeli</p>
+      <div style="background: #f8f9fa; border: 2px dashed #ccc; padding: 10px; border-radius: 8px; font-weight: bold; color: #e60000; font-size: 18px; letter-spacing: 1px; margin-bottom: 15px;">GENC2A5E7V2V</div>
+      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=GENC2A5E7V2V&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" style="display: block; padding: 12px; background: #e60000; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(230,0,0,0.1);">Başvuru Yap</a>
     </td>
-    <td width="33.3%" align="center" style="border: 2px solid #3498db; padding: 20px; border-radius: 12px; background: #f4f9ff; box-shadow: 0 4px 6px rgba(52,152,219,0.1);">
-      <span style="font-size: 20px;">🌐</span><br>
-      <b style="font-size: 16px; color: #2980b9;">Fiber İnternet</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Evde Işık Hızında İnternet</span><br><br>
-      <div style="background: #ffffff; padding: 6px; border-radius: 6px; border: 1px dashed #3498db; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #2980b9;">FIBER41LT4MA2</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/evde-internet/home?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=FIBER41LT4MA2&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
+  </tr>
+  <tr>
+    <!-- Kart 5 -->
+    <td width="50%" valign="top" style="border: 1px solid #eef0f2; border-radius: 15px; padding: 20px; background: #ffffff; box-shadow: 0 5px 15px rgba(0,0,0,0.03);" align="center">
+      <div style="background: #231f20; color: white; padding: 10px; border-radius: 8px; font-weight: bold; margin-bottom: 15px;">❤️ İlk Fırsat Paketleri</div>
+      <p style="color: #231f20; margin-bottom: 10px; font-size: 14px;">Vodafone'a İlk Gelenlere Özel</p>
+      <div style="background: #f8f9fa; border: 2px dashed #ccc; padding: 10px; border-radius: 8px; font-weight: bold; color: #e60000; font-size: 18px; letter-spacing: 1px; margin-bottom: 15px;">ILK5XHX0IPB</div>
+      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=ILK5XHX0IPB&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" style="display: block; padding: 12px; background: #e60000; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(230,0,0,0.1);">Başvuru Yap</a>
+    </td>
+    <!-- Kart 6 (Fiber İnternet) -->
+    <td width="50%" valign="top" style="border: 2px solid #0072ff; border-radius: 15px; padding: 20px; background: #ffffff; box-shadow: 0 5px 15px rgba(0,114,255,0.1);" align="center">
+      <div style="background: linear-gradient(135deg, #00c6ff, #0072ff); color: white; padding: 10px; border-radius: 8px; font-weight: bold; margin-bottom: 15px;">🏠 Fiber İnternet</div>
+      <p style="color: #231f20; margin-bottom: 10px; font-size: 14px;">Evde Işık Hızında Fiber İnternet</p>
+      <div style="background: #f4f9ff; border: 2px dashed #0072ff; padding: 10px; border-radius: 8px; font-weight: bold; color: #0072ff; font-size: 18px; letter-spacing: 1px; margin-bottom: 15px;">FIBER41LT4MA2</div>
+      <a href="https://www.vodafone.com.tr/evde-internet/home?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=FIBER41LT4MA2&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" style="display: block; padding: 12px; background: linear-gradient(135deg, #00c6ff, #0072ff); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,114,255,0.2);">Başvuru Yap</a>
     </td>
   </tr>
 </table>
