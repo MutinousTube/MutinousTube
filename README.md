@@ -10,7 +10,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
   <tr>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/MutinousTube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/channel/UCNQpjQqIsdUkKjsulWjngJA/join" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Özel_Katıl-0066DC?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/playlist?list=UUMONQpjQqIsdUkKjsulWjngJA" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Katıl_Videoları-4A0E4E?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.youtube.com/playlist?list=UUMONQpjQqIsdUkKjsulWjngJA" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Katıl_Videoları-E21B57?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://www.tiktok.com/@mutinoustube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="100%"></a></td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
       <hr style="border:0; border-top: 1px solid #f1f1f1; margin: 15px 0;">
       <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
         <li style="margin-bottom: 8px;">🏪 <b>Ömür Boyu Ücretsiz Yazar Kasa:</b> Şirketiniz için POS ve yazar kasa aidatlarını tamamen sıfırlayın.</li>
-        <li style="margin-bottom: 8px;">💳 <b>Aidatsız Kredi Kartı:</b> Yıllık kart kullanım ücreti ödemeden güvenle harcayın.</li>
+        <li style="margin-bottom: 8px;">💳 <b>Aidatsız Kredi Kartı:</b> Yıllık kart usage ücreti ödemeden güvenle harcayın.</li>
         <li style="margin-bottom: 8px;">💸 <b>Ücretsiz EFT, FAST ve Havale:</b> Para transferleri her zaman tamamen ücretsiz.</li>
         <li style="margin-bottom: 8px;">📊 <b>Masrafsız Yatırım & Fatura:</b> Borsa ve fatura ödemelerini komisyonsuz yönetin.</li>
       </ul>
@@ -134,49 +134,4 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
     <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
       <span style="font-size: 20px;">⭐</span><br>
       <b style="font-size: 16px;">Tercih Kampanyası</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Avantajlı Tarife Dünyası</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">TERCIH47CVR3I6T</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/ALL?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=TERCIH47CVR3I6T&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
-    </td>
-    <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <span style="font-size: 20px;">👑</span><br>
-      <b style="font-size: 16px;">Vodafone RED</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Dolu Dolu Premium RED</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">RED3LKRZZE7</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/RED?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=RED3LKRZZE7&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
-    </td>
-    <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <span style="font-size: 20px;">🔥</span><br>
-      <b style="font-size: 16px;">Yalın Fırsat</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">En Uygun Fiyatlı Paketler</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">FIRSAT6IZQGZC5</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/YALIN?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=FIRSAT6IZQGZC5&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <span style="font-size: 20px;">⚡</span><br>
-      <b style="font-size: 16px;">FreeZone Kampanyası</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Gençlere Özel Ekstra Hediyeli</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">GENC2A5E7V2V</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=GENC2A5E7V2V&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
-    </td>
-    <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <span style="font-size: 20px;">❤️</span><br>
-      <b style="font-size: 16px;">İlk Fırsat Paketleri</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Yeni Gelenlere Özel İndirim</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">ILK5XHX0IPB</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=ILK5XHX0IPB&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
-    </td>
-    <td width="33.3%" align="center" style="border: 2px solid #3498db; padding: 20px; border-radius: 12px; background: #f4f9ff; box-shadow: 0 4px 6px rgba(52,152,219,0.1);">
-      <span style
+      <span style="color: #7f8c
