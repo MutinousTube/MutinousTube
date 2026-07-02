@@ -26,16 +26,22 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
     <td width="25%" align="center" style="padding: 4px;"><a href="https://www.patreon.com/MutinousTube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://odysee.com/@MutinousTube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Odysee-E21B57?style=for-the-badge&logo=odysee&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://www.facebook.com/MutinousTube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://odysee.com/@MutinousTube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Odysee-E21B57?style=for-the-badge&logo=odysee&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://mutinoustube.github.io" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.linkedin.com/in/mutinoustube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"></a></td>
   </tr>
   <tr>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://www.facebook.com/NeedxLove" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.linkedin.com/in/mutinoustube" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"></a></td>
     <td width="25%" align="center" style="padding: 4px;"><a href="https://youtube.com/@MutinousTube/community" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Topluluk-555555?style=for-the-badge&logo=youtube&logoColor=white" width="100%"></a></td>
-    <td width="25%" align="center" style="padding: 4px;"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=mutinoustube@gmail.com" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/İletişim-D44638?style=for-the-badge&logo=gmail&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=mutinoustube@gmail.com" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/%C4%B0leti%C5%9fim-D44638?style=for-the-badge&logo=gmail&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"></td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" style="padding: 4px;"><a href="https://www.facebook.com/groups/mutinoustubee" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;"><img src="https://img.shields.io/badge/Facebook_Grubu-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100%"></a></td>
+    <td width="25%" align="center" style="padding: 4px;"></td>
+    <td width="25%" align="center" style="padding: 4px;"></td>
+    <td width="25%" align="center" style="padding: 4px;"></td>
   </tr>
 </table>
 
@@ -164,28 +170,4 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
       <span style="font-size: 20px;">⚡</span><br>
       <b style="font-size: 16px;">FreeZone Kampanyası</b><br>
       <span style="color: #7f8c8d; font-size: 12px;">Gençlere Özel Ekstra Hediyeli</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">GENC2A5E7V2V</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/FREEZONE?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=GENC2A5E7V2V&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
-    </td>
-    <td width="33.3%" align="center" style="border: 1px solid #e1e8ed; padding: 20px; border-radius: 12px; background: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <span style="font-size: 20px;">❤️</span><br>
-      <b style="font-size: 16px;">İlk Fırsat Paketleri</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Yeni Gelenlere Özel İndirim</span><br><br>
-      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e1e8ed; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #e74c3c;">ILK5XHX0IPB</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/MNP/postpaid/POME?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=ILK5XHX0IPB&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
-    </td>
-    <td width="33.3%" align="center" style="border: 2px solid #3498db; padding: 20px; border-radius: 12px; background: #f4f9ff; box-shadow: 0 4px 6px rgba(52,152,219,0.1);">
-      <span style="font-size: 20px;">🌐</span><br>
-      <b style="font-size: 16px; color: #2980b9;">Fiber İnternet</b><br>
-      <span style="color: #7f8c8d; font-size: 12px;">Evde Işık Hızında İnternet</span><br><br>
-      <div style="background: #ffffff; padding: 6px; border-radius: 6px; border: 1px dashed #3498db; margin-bottom: 12px;">
-        <code style="font-size: 14px; font-weight: bold; color: #2980b9;">FIBER41LT4MA2</code>
-      </div>
-      <a href="https://www.vodafone.com.tr/evde-internet/home?referer=amb-f0f7349c-f40e-4649-8053-aad230d2419b&couponCode=FIBER41LT4MA2&cid=perf-ambaff" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">🔗 Başvuru Yap</a>
-    </td>
-  </tr>
-</table>
+      <div style="background: #f8f9fa; padding: 6px; border-radius: 6px; border: 1px solid #e
