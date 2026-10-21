@@ -229,3 +229,12 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
 
 <head> <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6565125613560548"
      crossorigin="anonymous"></script> </head>
+
+
+<head> <script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"> 
+</script> </head>
+
+    <body> <amp-auto-ads type="adsense"
+        data-ad-client="ca-pub-6565125613560548">
+</amp-auto-ads> 
