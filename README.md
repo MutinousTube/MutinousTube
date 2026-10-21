@@ -225,3 +225,7 @@ Bağımsız Yayıncılığıma Hoşgeldiniz. Tüm Güncel İçeriklerime Buradan
     </td>
   </tr>
 </table>
+
+
+<head> <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6565125613560548"
+     crossorigin="anonymous"></script> </head>
